@@ -36,10 +36,10 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by Summer</div>
+                <div class="title">Hello Laravel! - by hongxuandaozun</div>
             </div>
         </div>
     </body>
 </html> 
 <!-- git config --global user.name "hongxuandaozun" -->
-<!-- git config --global user.email 18981914907@189.cn -->
+<!-- git config --global user.email "18981914907@189.cn" -->
